@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ 						<meta name="viewport" content, width="device-width", initial scale="1.0">
+ <head>
+ 						<title>My program</title>
+ </head>
+ <body>
+<link rel="stylesheet" type="text/css" href="home.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fontàs.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap" rel="stylesheet">
+ 						<header>
+ 											<marquee>
+ 																Welcome to Highly<span>favoured</span>.com
+ 											</marquee>
+ 						</header>
+ 				<div class="nav">
+ 					<ul>
+ 										<li><a href="home.html">Home</a></li>
+ 							<li><a href="create.html">Create an account</a></li>
+ 						<li><a href="login.html">Sign In</a></li>				
+ 				<li> <a href="about.html">About</a></li>
+ 					</ul>							
+ 						</div>
+ 					<br>
+ 					
+ 										
+ 					</div>
+ 					<div class="box">
+ 										Programming is truely fun but it takes quite a lot of time to master..... hopefully i will master it.
+ 					</div>
+ 					<h3>
+ 										If you haven't already signed up to our website,<strong>what are you waiting for?</strong>🤷
+ 										<a href="create.html">Kindly click here to get started</a>
+ 					</h3>
+ </body>
+ </html>
